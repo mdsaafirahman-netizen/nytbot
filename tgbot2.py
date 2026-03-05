@@ -19,6 +19,8 @@ GMAIL_DATA = {
     "nytbackup": {"email": "nyt1backup@gmail.com", "pw": "Asha11981"},
     "nytzefoy": {"email": "nytzefoy@gmail.com", "pw": "Asha11981"},
     "tiktok - @nytsafi": {"email": "safi007p@gmail.com", "pw": "@A1S1H1A1"},
+    "Facebook ( Game id )": {"email": "nyt1backup@gmail.com", "pw": "Asha11981"},
+    "Main id security Code": {"email": "mdsaafirahman@gmail.com", "pw": "534757"},
 }
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
