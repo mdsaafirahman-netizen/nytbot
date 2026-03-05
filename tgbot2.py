@@ -3,6 +3,9 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
 TOKEN = os.environ.get("BOT_TOKEN")
+PASSWORD = "S1A1F1i1"
+
+
 GMAIL_DATA = {
     "mdsaafirahman": {"email": "mdsaafirahman@gmail.com", "pw": "Asha11981"},
     "nytsafi": {"email": "nytsafi@gmail.com", "pw": "Asha11981"},
