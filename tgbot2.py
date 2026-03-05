@@ -75,13 +75,13 @@ async def check_password(update: Update, context: ContextTypes.DEFAULT_TYPE):
         )
 
     else:
-        msg = await update.message.reply_text("❌ Wrong password. Try again.")
-await asyncio.sleep(5)
-try:
-    await msg.delete()
-except:
-    pass
-
+         msg = await
+    update.message.reply_text("❌ Wrong password. Try again.")
+    await asyncio.sleep(5)
+    try:
+        await msg.delete()
+    except:
+        pass
 
 # SHOW LIST
 async def show_list(update: Update, context: ContextTypes.DEFAULT_TYPE):
