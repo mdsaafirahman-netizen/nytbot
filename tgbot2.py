@@ -2,7 +2,7 @@ import os
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, ContextTypes, filters
 
-TOKEN = os.environ.get("BOT_TOKEN")
+TOKEN = os.environ.get
 PASSWORD = "S1A1F1i1"
 
 GMAIL_DATA = {
