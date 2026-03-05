@@ -4,9 +4,6 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 
 TOKEN = os.environ.get("BOT_TOKEN")
 
-PASSWORD = "S1A1F1i1"
-AUTHORIZED_USERS = set()
-
 GMAIL_DATA = {
     "mdsaafirahman": {"email": "mdsaafirahman@gmail.com", "pw": "Asha11981"},
     "nytsafi": {"email": "nytsafi@gmail.com", "pw": "Asha11981"},
