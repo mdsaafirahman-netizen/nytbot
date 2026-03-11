@@ -23,6 +23,7 @@ GMAIL_DATA = {
     "tiktok - @nytsafi": {"email": "safi007p@gmail.com", "pw": "@A1S1H1A1"},
     "Facebook ( Game id )": {"email": "nyt1backup@gmail.com", "pw": "Asha11981"},
     "Main id security Code": {"email": "mdsaafirahman@gmail.com", "pw": "534757"},
+    "whatsapp 2FA code": {"email": "+880 1929-213126", "pw": "191854"},
 }
 
 AUTHORIZED_USERS = set()
